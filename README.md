@@ -1,7 +1,7 @@
 ### Hi! I'm Jose Sanchez, always learning 👋
 
-- 🔭 I’m currently looking to work as a front-end developer
-- 🌱 I’m currently learning React
+- 🔭 I’m currently looking to develop my programming skills
+- 🌱 I’m currently learning functional programming
 - 📫 How to reach me: joseh.sanchezm@gmail.com
 
 <div align="center">
